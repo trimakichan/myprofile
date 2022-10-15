@@ -1,0 +1,65 @@
+body {
+    background-image: url(../images/download.jpg);
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    font: 32px Garamond, Helvetica, serif;
+   text-align: center;
+}
+
+table, th, td{
+    width: 50%;
+    border: 3px solid red;
+border-collapse: collapse;
+
+}
+
+th {
+    text-align: center;
+    background-color: beige;
+
+}
+
+td {
+    background-color: white;
+}
+
+thead {
+    text-align: left;
+   
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+    border-radius: 8px;
+    background-color:yellowgreen ;
+    border-width: none;
+    margin: 5px;
+    color: white;
+
+
+
+  
+}
+
+.menuTable {
+    background-color: white;
+    border-color: black;
+
+}
+
+.review, .menu, .contact {
+    border: 2px solid purple;
+    margin: 10px;
+    padding: 10px;
+
+   
+}
+
+

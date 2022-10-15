@@ -1,0 +1,120 @@
+
+body {
+    background-image: url(../images/2491250.jpg);
+  
+}
+.container {
+    border: double;
+    border-width: 5px;
+    border-radius: 8px;
+    background-color: #faeeee;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+.navContainer {
+float: right;
+margin-right: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: #85D2D0;
+    vertical-align: middle;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+    color: white;
+
+}
+
+.divider {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.link{
+    background-color: #F4B9B8;
+    
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-weight: bold;
+            font-size: 14px;
+            cursor: pointer;
+            margin-left: 8px;
+            transition: box-shadow .15s;
+            padding: 8px;
+            text-decoration: none;
+            
+
+       
+}
+
+.link:hover {
+    opacity: .4;
+}
+
+.profile-pic {
+    border-radius: 20px;
+    margin-left: 30px;
+
+
+}
+
+.joy-pic {
+    border-radius: 20px;
+    margin-top: 10px;
+    float: right;
+}
+
+
+
+.profileAboutme {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+   
+}
+
+.aboutme {
+    margin-top: 0;
+}
+
+.interest {
+    display: inline-block;
+    margin-left: 30px;
+
+}
+
+.email-button {
+    background-color: #F4B9B8;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 12px;
+            cursor: pointer;
+            margin-left:  8px;
+            transition: box-shadow .15s;
+}
+
+
+
+.box2 {
+    display: block;
+}
+
+.audio {
+    display: inline-block;
+}
+
+.footer {
+   text-align: center;
+   margin-bottom: 20px;
+   margin-top: 20px;
+
+}
